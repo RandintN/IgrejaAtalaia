@@ -1,0 +1,5 @@
+User-agent: *
+
+Disallow: /sermons.html
+
+Sitemap: https://www.igrejaatalaia.com.br/sitemap.xml
