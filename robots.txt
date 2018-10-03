@@ -1,5 +1,5 @@
 User-agent: *
 
-Disallow: /sermons.html
+Disallow:
 
 Sitemap: https://www.igrejaatalaia.com.br/sitemap.xml
